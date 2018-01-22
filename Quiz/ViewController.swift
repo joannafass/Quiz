@@ -6,6 +6,7 @@
 //  1/17/18
 //  ~/csc2310/Quiz
 //  Copyright © 2018 Joanna Fass. All rights reserved.
+//  High Point University
 //
 
 import UIKit
